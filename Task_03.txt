@@ -1,0 +1,19 @@
+Постановка задачи:
+
+Есть три таблицы: CUSTOMERS (ID, NAME, MANAGER_ID); 
+                  MANAGERS (ID, NAME); 
+				  ORDERS (ID, DATE, AMOUNT, CUSTOMER_ID). 
+
+Написать запрос, который выведет имена Customers и их SalesManagers, 
+которые сделали покупок на общую сумму больше 10000 с 01.01.2013.
+
+
+Решение:
+
+select c.NAME, m.NAME
+from ORDERS o
+inner join CUSTOMERS c on c.ID = o.CUSTOMER_ID
+inner join MANAGERS m on m.ID = c.MANAGER_ID
+where o.DATE > to_date('01.01.2013', 'dd.mm.yyyy')
+group by c.NAME, m.NAME
+having sum(o.AMOUNT) > 10000
