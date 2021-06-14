@@ -1,0 +1,17 @@
+D:\TestTask\Contragents.ConsoleApp\Contragents.ConsoleApp\bin\Debug\Contragents.ConsoleApp.exe.config
+D:\TestTask\Contragents.ConsoleApp\Contragents.ConsoleApp\bin\Debug\Contragents.ConsoleApp.exe
+D:\TestTask\Contragents.ConsoleApp\Contragents.ConsoleApp\bin\Debug\Contragents.ConsoleApp.pdb
+D:\TestTask\Contragents.ConsoleApp\Contragents.ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+D:\TestTask\Contragents.ConsoleApp\Contragents.ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+D:\TestTask\Contragents.ConsoleApp\Contragents.ConsoleApp\obj\Debug\Contragents.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\TestTask\Contragents.ConsoleApp\Contragents.ConsoleApp\obj\Debug\Contragents.ConsoleApp.csproj.CopyComplete
+D:\TestTask\Contragents.ConsoleApp\Contragents.ConsoleApp\obj\Debug\Contragents.ConsoleApp.exe
+D:\TestTask\Contragents.ConsoleApp\Contragents.ConsoleApp\obj\Debug\Contragents.ConsoleApp.pdb
+D:\TestTask\Contragents.ConsoleApp\Contragents.ConsoleApp\obj\Debug\Contragents.ConsoleApp.csproj.AssemblyReference.cache
+D:\JysanGarant\CSHARP_TASK\Contragents.ConsoleApp\Contragents.ConsoleApp\bin\Debug\Contragents.ConsoleApp.exe.config
+D:\JysanGarant\CSHARP_TASK\Contragents.ConsoleApp\Contragents.ConsoleApp\bin\Debug\Contragents.ConsoleApp.exe
+D:\JysanGarant\CSHARP_TASK\Contragents.ConsoleApp\Contragents.ConsoleApp\bin\Debug\Contragents.ConsoleApp.pdb
+D:\JysanGarant\CSHARP_TASK\Contragents.ConsoleApp\Contragents.ConsoleApp\obj\Debug\Contragents.ConsoleApp.csproj.AssemblyReference.cache
+D:\JysanGarant\CSHARP_TASK\Contragents.ConsoleApp\Contragents.ConsoleApp\obj\Debug\Contragents.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\JysanGarant\CSHARP_TASK\Contragents.ConsoleApp\Contragents.ConsoleApp\obj\Debug\Contragents.ConsoleApp.exe
+D:\JysanGarant\CSHARP_TASK\Contragents.ConsoleApp\Contragents.ConsoleApp\obj\Debug\Contragents.ConsoleApp.pdb
